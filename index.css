@@ -45,7 +45,7 @@ h1{
 #sec1{
     height: 500px;
     width: 1250px;
-    background-color: white;
+    /* background-color: white; */
     /* border: 2px solid red; */
     margin-top: 10px;
     display: grid;
@@ -103,7 +103,7 @@ h1{
 }
 
 #det3{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     background-color: white;
 
 }
@@ -171,7 +171,7 @@ h1{
 .proj{
     height: 350px;
     width: 500px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     border-radius: 15px;
     color: white;
     text-align: center;
@@ -289,4 +289,5 @@ h1{
 }
 span{
     color: blue;
+
 }
